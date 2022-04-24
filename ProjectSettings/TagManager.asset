@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - FallTrigger
+  - FinishTrigger
+  - Coin
   layers:
   - Default
   - TransparentFX
